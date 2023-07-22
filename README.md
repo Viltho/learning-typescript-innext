@@ -1,1 +1,1 @@
-# learning-typescript-inreact
+# learning-typescript-innext
